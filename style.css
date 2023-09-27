@@ -122,7 +122,8 @@ a{
 
 .btn-pink{
     background-color: var(--bg-color);
-    width: fit-content;    padding: 0.8rem 2.3rem;
+    width: fit-content;    
+    padding: 0.8rem 2.3rem;
     color: white;
     box-shadow: 5px 5px 7px 0px #0000003f;
     font-size: 18px;
@@ -318,11 +319,11 @@ a{
 }
 
 #profile1{
-    background-image: url(./Images/profile/profile1.png);
+    background-image: url(profile1.jpg);
 }
 
 #profile2{
-    background-image: url(./Images/profile/profile2.png);
+    background-image: url(profile2.jpg);
     margin-left: 120px;
 }
 
